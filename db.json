@@ -1,32 +1,34 @@
 {
-   "input":{
-      "username":"admin",
-      "password":"@dminPica2021#"
-   },
-   "output":{
-      "user":{
-         "name":""
+   "login":{
+      "input":{
+         "username":"admin",
+         "password":"@dminPica2021#"
       },
-      "token":"zgfaQrgsbsoasjdsmndsnmdsnmscdscssdcscxnm,bcb,dsb f,dsf,balfbklfblakbflsbslsbsjbfsdbfgdsuifgdsiugfdsgufgsdfidsgfi",
-      "menu":[
-         {
-            "module":"Consultas",
-            "items":[
-               {
-                  "option":"Reporte Logs Auditoria",
-                  "icon":""
-               }
-            ]
+      "output":{
+         "user":{
+            "name":""
          },
-         {
-            "module":"Dashboard",
-            "items":[
-               {
-                  "option":"Agrupado por Aplicaciones",
-                  "icon":""
-               }
-            ]
-         }
-      ]
+         "token":"zgfaQrgsbsoasjdsmndsnmdsnmscdscssdcscxnm,bcb,dsb f,dsf,balfbklfblakbflsbslsbsjbfsdbfgdsuifgdsiugfdsgufgsdfidsgfi",
+         "menu":[
+            {
+               "module":"Consultas",
+               "items":[
+                  {
+                     "option":"Reporte Logs Auditoria",
+                     "icon":""
+                  }
+               ]
+            },
+            {
+               "module":"Dashboard",
+               "items":[
+                  {
+                     "option":"Agrupado por Aplicaciones",
+                     "icon":""
+                  }
+               ]
+            }
+         ]
+      }
    }
 }
