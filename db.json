@@ -1,30 +1,50 @@
 {
    "login":{
-      "input":{
-         "username":"admin",
-         "password":"@dminPica2021#"
+      "input": {
+         "username": "admin",
+         "password": "@dminPica2021#"
       },
-      "output":{
-         "user":{
-            "name":""
+      "output": {
+         "user": {
+            "name": ""
          },
-         "token":"zgfaQrgsbsoasjdsmndsnmdsnmscdscssdcscxnm,bcb,dsb f,dsf,balfbklfblakbflsbslsbsjbfsdbfgdsuifgdsiugfdsgufgsdfidsgfi",
-         "menu":[
+         "token": "zgfaQrgsbsoasjdsmndsnmdsnmscdscssdcscxnm,bcb,dsb f,dsf,balfbklfblakbflsbslsbsjbfsdbfgdsuifgdsiugfdsgufgsdfidsgfi",
+         "menu": [
             {
-               "module":"Consultas",
-               "items":[
+               "module": "Consultas",
+               "icon": "mdi-chart-bar",
+               "items": [
                   {
-                     "option":"Reporte Logs Auditoria",
-                     "icon":""
+                     "option": "Reporte Logs Auditoria",
+                     "icon": ""
+                  },
+                  {
+                     "option": "Reporte Logs Auditoria",
+                     "icon": ""
                   }
                ]
             },
             {
-               "module":"Dashboard",
-               "items":[
+               "module": "Dashboard",
+               "icon": "mdi-chart-pie",
+               "items": [
                   {
-                     "option":"Agrupado por Aplicaciones",
-                     "icon":""
+                     "option": "Agrupado por Aplicaciones",
+                     "icon": ""
+                  },
+                  {
+                     "option": "Agrupado por Aplicaciones",
+                     "icon": ""
+                  }
+               ]
+            },
+            {
+               "module": "Proceso",
+               "icon": "mdi-cog",
+               "items": [
+                  {
+                     "option": "Eliminar Log",
+                     "icon": ""
                   }
                ]
             }
