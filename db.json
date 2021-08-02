@@ -19,7 +19,7 @@
                      "icon": ""
                   },
                   {
-                     "option": "Reporte Logs Auditoria",
+                     "option": "Reporte Logs Error",
                      "icon": ""
                   }
                ]
@@ -28,10 +28,6 @@
                "module": "Dashboard",
                "icon": "mdi-chart-pie",
                "items": [
-                  {
-                     "option": "Agrupado por Aplicaciones",
-                     "icon": ""
-                  },
                   {
                      "option": "Agrupado por Aplicaciones",
                      "icon": ""
@@ -44,6 +40,10 @@
                "items": [
                   {
                      "option": "Eliminar Log",
+                     "icon": ""
+                  },
+                  {
+                     "option": "Proceso Postman",
                      "icon": ""
                   }
                ]
