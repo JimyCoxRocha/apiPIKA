@@ -47,6 +47,16 @@
                      "icon": ""
                   }
                ]
+            },
+            {
+               "module": "Seguridad",
+               "icon": "mdi-lock",
+               "items": [
+                  {
+                     "option": "Registrar un Usuario",
+                     "icon": ""
+                  }
+               ]
             }
          ]
       }
