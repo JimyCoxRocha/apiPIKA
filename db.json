@@ -55,6 +55,10 @@
                   {
                      "option": "Registrar un Usuario",
                      "icon": ""
+                  },
+                  {
+                     "option": "Mantenimiento de perfil",
+                     "icon": ""
                   }
                ]
             }
